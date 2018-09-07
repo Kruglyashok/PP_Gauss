@@ -1,0 +1,11 @@
+﻿  tbb.cpp
+tbb.cpp(94): warning C4244: =: преобразование "double" в "uchar", возможна потеря данных
+tbb.cpp(95): warning C4244: =: преобразование "double" в "uchar", возможна потеря данных
+tbb.cpp(96): warning C4244: =: преобразование "double" в "uchar", возможна потеря данных
+  Создание кода
+  4 of 337 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  TBB_Gauss.vcxproj -> C:\Users\One\documents\visual studio 2015\Projects\PP_Gauss\x64\Release\TBB_Gauss.exe
+  TBB_Gauss.vcxproj -> C:\Users\One\documents\visual studio 2015\Projects\PP_Gauss\x64\Release\TBB_Gauss.pdb (Full PDB)
